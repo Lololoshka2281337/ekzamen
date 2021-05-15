@@ -1,0 +1,11 @@
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\bin\Debug\netcoreapp2.1\ekzamen.deps.json
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\bin\Debug\netcoreapp2.1\ekzamen.runtimeconfig.json
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\bin\Debug\netcoreapp2.1\ekzamen.runtimeconfig.dev.json
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\bin\Debug\netcoreapp2.1\ekzamen.dll
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\bin\Debug\netcoreapp2.1\ekzamen.pdb
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.csprojAssemblyReference.cache
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.csproj.CoreCompileInputs.cache
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.AssemblyInfoInputs.cache
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.AssemblyInfo.cs
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.dll
+C:\Users\МурзаевНМ\source\repos\ekzamen\ekzamen\obj\Debug\netcoreapp2.1\ekzamen.pdb
